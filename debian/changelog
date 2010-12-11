@@ -1,3 +1,9 @@
+libfreenect (1:0.0.1+20101211-1) experimental; urgency=low
+
+  * changed debian version part to 1
+
+ -- Arne Bernin <arne@alamut.de>  Sat, 11 Dec 2010 23:18:29 +0100
+
 libfreenect (1:0.0.1+20101211-0) experimental; urgency=low
 
   * New Version from upstream
