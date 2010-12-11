@@ -1,4 +1,4 @@
-libfreenect (1:0.0.1+20101211-0ubuntu2~lucid) lucid; urgency=low
+libfreenect (1:0.0.1+20101211-0) experimental; urgency=low
 
   * New Version from upstream
 
